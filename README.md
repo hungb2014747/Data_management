@@ -1,2 +1,2 @@
-# learn_java
+# applied_java
 data_management
